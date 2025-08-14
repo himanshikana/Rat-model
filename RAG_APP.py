@@ -23,7 +23,7 @@ if not groq_api_key:
 
 st.set_page_config(page_title="Dynamic RAG with Groq", layout="wide")
 
-st.image("AA.jpg")
+st.image("images.jpg")
 
 st.title("Dynamic RAG with Groq, FAISS, and Llama3")
 
