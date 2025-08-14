@@ -74,7 +74,7 @@ llm = ChatGroq(
     groq_api_key=groq_api_key,
     model_name="llama3-8b-8192"
 )
- llm = ChatGroq(
+llm = ChatGroq(
                     groq_api_key=groq_api_key,
                     model_name="llama3-8b-8192"
                 )
