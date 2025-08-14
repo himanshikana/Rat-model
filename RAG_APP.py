@@ -17,7 +17,7 @@ groq_api_key = os.getenv("GROQ_API_KEY")
 # groq_api_key = st.secrets["GROQ_API_KEY"]
 
 st.set_page_config(page_title="Dynamic RAG with Groq", layout="wide")
-st.image("ProgayanAI_Transparent.png")
+#st.image("ProgayanAI_Transparent.png")
 st.title("Dynamic RAG with Groq, FAISS, and Llama3")
 
 # Initialize session state for vector store and chat history
